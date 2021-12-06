@@ -48,6 +48,6 @@ $ yarn start
 
 ---
 
-<p align="center">Feito com 💙 por Erika Perciliano</p>
+<p align="center">💙 by Erika Perciliano</p>
 
 
